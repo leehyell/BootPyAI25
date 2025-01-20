@@ -54,7 +54,9 @@
 
 <br/><br/>
 ◆ main.py 실행
-<br/>
+<br/><br/>
+![image](https://github.com/user-attachments/assets/8283e9d3-b02a-40f2-b6d6-d1581ce01f02)
+
 └ Terminal에서 D:\phthonWorkSpace > uviconr main:app --reload --port 8001(위치 확인)
 
 <br/><br/>
