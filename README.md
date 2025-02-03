@@ -60,4 +60,8 @@
 └ Terminal에서 D:\phthonWorkSpace > uviconr main:app --reload --port 8001(위치 확인)
 
 <br/><br/>
+◆ 실시간 영상 스트리밍 서비스
+![image](https://github.com/user-attachments/assets/33c2fba4-97b5-4aa1-bc5d-39e9c6d6f833)
+
+<br/><br/>
 2025.01.17 ~
